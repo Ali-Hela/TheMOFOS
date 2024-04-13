@@ -1,7 +1,7 @@
 ﻿{
 	"name": "TheMOFOS",
 	"version_number": "0.1",
-	"website_url": "https://github.com/thunderstore-io",
+	"website_url": "https://github.com/Ali-Hela/TheMOFOS",
 	"description": "A modpack for us and us only. But, you can use it, cause you deserve it champ",
 	"dependencies": ["BepInExPack", "DeathStatus", "Mirage"]
 }
