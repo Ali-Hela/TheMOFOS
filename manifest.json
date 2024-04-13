@@ -4,10 +4,10 @@
 	"website_url": "https://github.com/Ali-Hela/TheMOFOS",
 	"description": "A modpack for us and us only. But, you can use it, cause you deserve it champ",
 	"dependencies": [
-		"BepInExPack-5.4.2100",
-		"DeathStatus-1.0.0",
-		"Mirage-1.2.1",
-		"MyceliumNetworkin-1.0.11",
-		"BarchLib-1.0.1"
+		"BepInEx-BepInExPack-5.4.2100",
+		"Clementinise-DeathStatus-1.0.0",
+		"cw_qwbarch-Mirage-1.2.1",
+		"RugbugRedfern-MyceliumNetworking-1.0.11",
+		"cw_qwbarch-BarchLib-1.0.1"
 	]
 }
